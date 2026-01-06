@@ -16,6 +16,7 @@ interface Colegio {
   nombre: string;
   codigo_dane: string;
   direccion: string;
+  barrio: string;
   lat: number;
   lng: number;
 }
@@ -75,6 +76,9 @@ export default function Map({ colegios, colegioSeleccionado, resetView }: MapPro
           <h3 style="font-weight: bold; margin-bottom: 8px; font-size: 14px; color: #1f2937;">
             ${colegio.nombre}
           </h3>
+          <p style="margin: 4px 0; font-size: 12px; color: #4b5563;">
+            <strong>Barrio:</strong> ${colegio.barrio}
+          </p>
           <p style="margin: 4px 0; font-size: 12px; color: #4b5563;">
             <strong>Código DANE:</strong> ${colegio.codigo_dane}
           </p>

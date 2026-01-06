@@ -5,6 +5,7 @@
     "codigo_dane": "168001002625",
     "correo": "ieandrespaez@bucaramanga.edu.co",
     "direccion": "Calle 37 N° 1 – 97 B. La joya\nCalle 39 No. 4 – 36-La Joya",
+    "barrio": "La Joya",
     "lat": 7.113044,
     "lng": -73.136991
   },
@@ -14,6 +15,7 @@
     "codigo_dane": "18001000550",
     "correo": "ieaureliomartinez@bucaramanga.edu.co",
     "direccion": "Av. de los estudiantes N° 9 – 313\nCalle 56 # 21-52\nCalle 68 #18-29 Barrio La Victoria",
+    "barrio": "La Victoria",
     "lat": 7.106318753489445,
     "lng": -73.12362400341358
   },
@@ -23,6 +25,7 @@
     "codigo_dane": "168001007627",
     "correo": "iebicentenario@bucaramanga.edu.co",
     "direccion": "Carrera 43 N° 34ª – 11 B. Álvarez\nCL 34 45 38",
+    "barrio": "Alvarez",
     "lat": 7.126415049895371,
     "lng": -73.10714438621554
   },
@@ -32,6 +35,7 @@
     "codigo_dane": "168001001203",
     "correo": "iecamachocarreno@bucaramanga.edu.co",
     "direccion": "Calle 41 # 8-15\nCalle 35 N° 6 – 68 B. Alfonso López",
+    "barrio": "Alfonso López",
     "lat": 7.114193,
     "lng": -73.131144
   },
@@ -41,6 +45,7 @@
     "codigo_dane": "168001001173",
     "correo": "iecampohermoso@bucaramanga.edu.co",
     "direccion": "Carrera 9 A occ N° 49 – 24 Barrio Campo\nHermoso\nCalle 47 # 10 occ -68 Barrio Campo\nHermoso\nCarera Principal # 1 Barrio Jose Antonio\nGalán\n100 KM 2 Vía Chimita, Barrio Rincón de\nla Paz",
+    "barrio": "Campo Hermoso",
     "lat": 7.102735500715504,
     "lng": -73.1390894933754
   },
@@ -50,6 +55,7 @@
     "codigo_dane": "168001003184",
     "correo": "iecafemadrid@bucaramanga.edu.co",
     "direccion": "Carrera 8B N° 35AN – 45 Barrio Café\nMadrid",
+    "barrio": "Café Madrid",
     "lat": 7.163317562430714,
     "lng": -73.14036049095479
   },
@@ -59,6 +65,7 @@
     "codigo_dane": "268001001313",
     "correo": "iebosconia@bucaramanga.edu.co",
     "direccion": "Km 18 Vía la Aguada Vereda Cuchilla.\nAlta. Km 12 Vía Bucaramanga Matanza\nVereda La Capilla.\nKm 25 Vía la Aguada Charta Finca El\nHorno Vereda Cuchilla Alta.\nKm 20 Vía a Tona Finca La Meseta\nVereda Monserrate.\nCarrera 32 # 39N – 27 Barrio Bosconia.\nKm 4 Vía al cemento Vereda Los Santos.\nKm 15 Vía a Bosconia Matanza Vereda\nSanta Rita.",
+    "barrio": "Vereda Cuchilla",
     "lat": 7.180275,
     "lng": -73.104118
   },
@@ -68,6 +75,7 @@
     "codigo_dane": "268001004380",
     "correo": "ieelpaulon@bucaramanga.edu.co",
     "direccion": "Km. 2 vía al mar, finca los sitios Sector la\ntorre, vda El Paulón",
+    "barrio": "Vereda el Paulón",
     "lat": 7.175566354281602,
     "lng": -73.14402143141017
   },
@@ -77,6 +85,7 @@
     "codigo_dane": "268001002301",
     "correo": "ielamalana@bucaramanga.edu.co",
     "direccion": "Km 1 Vía al acueducto Vda la Malaña\nKM 6 Via Acueducto Vereda El Gualilo",
+    "barrio": "Vereda la Malaña",
     "lat": 7.142936873130637,
     "lng": -73.10109658608754
   },
@@ -86,6 +95,7 @@
     "codigo_dane": "168001007856",
     "correo": "ieclaveriano@bucaramanga.edu.co",
     "direccion": "Calle 25 AN # 20 A - 40",
+    "barrio": "Kennedy",
     "lat": 7.161148,
     "lng": -73.131698
   },
@@ -95,6 +105,7 @@
     "codigo_dane": "168001001483",
     "correo": "ieclubunion@bucaramanga.edu.co",
     "direccion": "Calle 3 A N° 10 – 36 B. San Rafael\nCarrera 14 # 2-38 Barrio Norte\nKM 7, Vía al mar Barrio Los Colorados\nCalle 20 # 16 A -116 Barrio Las Olas\nBajas\nCarrera 5 # 45-05 Barrio Café Madrid",
+    "barrio": "San Rafael",
     "lat": 7.140006,
     "lng": -73.135128
   },
@@ -104,6 +115,7 @@
     "codigo_dane": "168001000444",
     "correo": "iedesantander@bucaramanga.edu.co",
     "direccion": "Calle 9 # 25 – 67 Barrio La Universidad.\nCarrera 32 # 16N-28 Km 3 Vía Matanza.\nCalle 5 # 20-14 Barrio Comuneros.\nCalle 1 # 2-23 Barrio La Independencia.           Carrera 28# 14-20 Barrio San Alonso",
+    "barrio": "La Universidad",
     "lat": 7.104354,
     "lng": -73.113003
   },
@@ -113,6 +125,7 @@
     "codigo_dane": "168001001688",
     "correo": "ieloscomuneros@bucaramanga.edu.co",
     "direccion": "Carrera 18 N° 10 – 06 Barrio Comuneros",
+    "barrio": "Comuneros",
     "lat": 7.136283,
     "lng": -73.128677
   },
@@ -122,6 +135,7 @@
     "codigo_dane": "168001000525",
     "correo": "ienormal@bucaramanga.edu.co",
     "direccion": "Carrera 27 N° 29 – 69 Barrio La Aurora\nCarrera 30 # 27-167 Barrio La Aurora\nCalle 31 # 26-45 Barrio La Aurora",
+    "barrio": "La Aurora",
     "lat": 7.127536849842892,
     "lng": -73.11761528795951
   },
@@ -131,6 +145,7 @@
     "codigo_dane": "168001003010",
     "correo": "iefranciscodepaula@bucaramanga.edu.co",
     "direccion": "Carrera 5 Occ # 30 – 61 B. Santander\nCalle 26 # 2-11 Barrio La Feria\nCalle 31 # 13 occ -050 Barrio Don Bosco",
+    "barrio": "Santander",
     "lat": 7.116861,
     "lng": -73.13804
   },
@@ -140,6 +155,7 @@
     "codigo_dane": "",
     "correo": "iegabrielamistral@bucaramanga.edu.co",
     "direccion": "Calle 69 A # 27 – 30 Barrio La Salle",
+    "barrio": "La Salle",
     "lat": 7.099766,
     "lng": -73.11287
   },
@@ -149,6 +165,7 @@
     "codigo_dane": "168001006396",
     "correo": "iecoteuribe@bucaramanga.edu.co",
     "direccion": "Carrera 5 # 15 – 23 Barrio María Paz\nNorte",
+    "barrio": "María Paz Norte",
     "lat": 7.08292,
     "lng": -73.122416
   },
@@ -158,6 +175,7 @@
     "codigo_dane": "168001003591",
     "correo": "ieinem@bucaramanga.edu.co",
     "direccion": "Carrera 19 A N° 104 – 56 Barrio Provenza\nCalle 104 # 16 A -35 Barrio El Rocio\nCarrera 11D # 104ª-22 Barrio Manuela\nBeltran\nCarrera 15 A # 107-35 Barrio Dangond\nCalle 91 # 25-82 Barrio Diamante II\nCalle 106 # 15 C -40 Barrio Toledo Plata\nCarrera 32 # 87-86 Barrio San Martin\nCalle 67 A # 9-61 Barrio San Pablo",
+    "barrio": "Provenza",
     "lat": 7.085631,
     "lng": -73.118622
   },
@@ -167,6 +185,7 @@
     "codigo_dane": "168001000410",
     "correo": "iepolitecnico@bucaramanga.edu.co",
     "direccion": "Calle 55 Diag. 14 – 106 Barrio Ciudadela\nReal de Minas\nCalle 28 # 13-61\nCarrera 7 # 29-58\nCalle 24 # 6-42 Barrio Girardot.                                Calle 64 # 10-40 Barrio Ciudadela Real\nde Minas",
+    "barrio": "Ciudadela Real de Minas",
     "lat": -73.122992,
     "lng": 7.10695
   },
@@ -176,6 +195,7 @@
     "codigo_dane": "168001000834",
     "correo": "iesantoangel@bucaramanga.edu.co",
     "direccion": "Calle 9N # 18c – 04 Barrio Villa Rosa",
+    "barrio": "Villa Rosa",
     "lat": 7.150375885242316,
     "lng": -73.1308080655219
   },
@@ -185,6 +205,7 @@
     "codigo_dane": "168001000398",
     "correo": "ienacionaldecomercio@bucaramanga.edu.co",
     "direccion": "Calle 55 Diagonal 14 – 54 Barrio\nCiudadela Real de Minas\nCarrera 13 # 42-46 Barrio El Centro",
+    "barrio": "Ciudadela Real de Minas",
     "lat": 7.107217160049561,
     "lng": -73.12276152261144
   },
@@ -194,6 +215,7 @@
     "codigo_dane": "168001005420",
     "correo": "ieardiladuarte@bucaramanga.edu.co",
     "direccion": "Calle 53 # 21 – 25 Barrio La Concordia\nCalle 50 # 23-44 Barrio La Concordia",
+    "barrio": "La Concordia",
     "lat": 7.11148750418493,
     "lng": -73.1170203926024
   },
@@ -203,6 +225,7 @@
     "codigo_dane": "168001002227",
     "correo": "iegaitan@bucaramanga.edu.co",
     "direccion": "Calle 16 # 9 – 54 Barrio Gaitán\nCarrera 12 # 16-42 Barrio Gaitán",
+    "barrio": "Gaitán",
     "lat": 7.130599342194928,
     "lng": -73.13471519360907
   },
@@ -212,6 +235,7 @@
     "codigo_dane": "168001002633",
     "correo": "iecelestinomutis@bucaramanga.edu.co",
     "direccion": "Carrera 3 W # 57 – 14 Barrio Mutis",
+    "barrio": "Mutis",
     "lat": 7.100522691258669,
     "lng": -73.13094061958941
   },
@@ -221,6 +245,7 @@
     "codigo_dane": "168001003010",
     "correo": "ielajuventud@bucaramanga.edu.co",
     "direccion": "Calle 5 N # 19 A – 12 Barrio La Juventud\nCarrera 26 # 12 NB Barrio La Esperanza\nIII",
+    "barrio": "La Juventud",
     "lat": 7.144988494414545,
     "lng": -73.12833554842442
   },
@@ -230,6 +255,7 @@
     "codigo_dane": "168001001025",
     "correo": "ielasamericas@bucaramanga.edu.co",
     "direccion": "Calle 33 # 36-16 Barrio Alvarez\nCalle 70 # 55-226 Vereda Santa Bárbara",
+    "barrio": "Alvarez",
     "lat": 7.128077819445392,
     "lng": -73.10974490689283
   },
@@ -239,6 +265,7 @@
     "codigo_dane": "168001001157",
     "correo": "ielalibertad@bucaramanga.edu.co",
     "direccion": "Cra 31 # 101-24 Barrio La Libertad",
+    "barrio": "La Libertad",
     "lat": 7.093650680520382,
     "lng": -73.10770606191838
   },
@@ -248,6 +275,7 @@
     "codigo_dane": "168001001408",
     "correo": "ieliceopatria@bucaramanga.edu.co",
     "direccion": "Carrera 33 #18 – 53 Barrio San Alonso",
+    "barrio": "San Alonso",
     "lat": 7.131402093070306,
     "lng": -73.11238996191804
   },
@@ -257,6 +285,7 @@
     "codigo_dane": "168001007821",
     "correo": "ieloscolorados@bucaramanga.edu.co",
     "direccion": "Carrera 28ª N° 49 – 50 Los Colorados",
+    "barrio": "Los Colorados",
     "lat": 7.174975689333488,
     "lng": -73.1294309754111
   },
@@ -266,6 +295,7 @@
     "codigo_dane": "168001005691",
     "correo": "iegalansarmiento@bucaramanga.edu.co",
     "direccion": "Calle 59 # 38 W – 00 Barrio Estoraques",
+    "barrio": "Estoraques",
     "lat": 7.095660439370938,
     "lng": -73.14208925822106
   },
@@ -275,6 +305,7 @@
     "codigo_dane": "168001000533",
     "correo": "iemaipore@bucaramanga.edu.co",
     "direccion": "Calle 23 Norte # 12 – 58 Barrio Kennedy\nCalle 7 # 10-38 Barrio Kennedy\nCalle 7 # 10-40 Barrio Kennedy",
+    "barrio": "Kennedy",
     "lat": 7.154781597164828,
     "lng": -73.13569709047704
   },
@@ -284,6 +315,7 @@
     "codigo_dane": "168001002714",
     "correo": "iemedallamilagrosa@bucaramanga.edu.co",
     "direccion": "Carrera 7B # 103 – 24 Barrio Porvenir",
+    "barrio": "Porvenir",
     "lat": 7.085225031141158,
     "lng": -73.13150233308293
   },
@@ -293,6 +325,7 @@
     "codigo_dane": "168001000401",
     "correo": "iefatima@bucaramanga.edu.co - mebuc.nusefa-rec@policia.gov.co",
     "direccion": "Carrera 12 # 41 – 69 Barrio García Rovira",
+    "barrio": "García Rovira",
     "lat": 7.115497740590334,
     "lng": -73.12820541958925
   },
@@ -302,7 +335,8 @@
     "codigo_dane": "168001002421",
     "correo": "ieelpilar@bucaramanga.edu.co",
     "direccion": "Av. de los Estudiantes # 9 – 323 Barrio\nCiudadela Real de Minas\nCalle 65C # 6ª-08 Barrio Los Canelos\nCalle 65 # 11W – Esquina Barrio Monte\nRedondo\nCalle 45 # 1-32 Barrio Campo Hermoso\nCarrera 10 C # 68 A -13 Barrio Pablo VI\nCarrera 13 # 16-46 Barrio Gaitán",
-    "lat": 7.106534563823875,
+    "barrio": "Ciudadela Real de Minas",
+    "lat": 7.1065345638238755,
     "lng": -73.12378074712866
   },
   {
@@ -311,6 +345,7 @@
     "codigo_dane": "168001006205",
     "correo": "ieorientemiraflores@bucaramanga.edu.co",
     "direccion": "Km vía Pamplona Km 2 # 50 – 46 Barrio\nAlbania\nCarrera 48 # 27-03 Barrio Albania\nCalle 20 # 53-36 Barrio Miraflores\nCalle 17 # 57-35 Barrio Buenos Aires\nCalle 21 # 66-46 Barrio Buenavista\nVía a Pamplona KM 5Vereda San Jose",
+    "barrio": "Albania",
     "lat": 7.134272802358032,
     "lng": -73.10539315361535
   },
@@ -320,6 +355,7 @@
     "codigo_dane": "168001004580",
     "correo": "iepiloto@bucaramanga.edu.co",
     "direccion": "Carrera 20 N° 11 - 83",
+    "barrio": "Alarcón",
     "lat": 7.135391070575092,
     "lng": -73.12656081880567
   },
@@ -329,6 +365,7 @@
     "codigo_dane": "168001004962",
     "correo": "iepromocionsocial@bucaramanga.edu.co",
     "direccion": "Carrera 22B # 1N- 61 Barrio San\nCristóbal\nCalle 1 # 21-17 Barrio San Cristóbal\nCarrera 2 A # 7-40 Barrio Ciudad Norte\nCarrera 22 # 1N -20 Barrio Transición\nVía Café Madrid Km 2 Barrio Regaderos",
+    "barrio": "San Cristóbal",
     "lat": 7.144152383829944,
     "lng": -73.12634710716976
   },
@@ -338,6 +375,7 @@
     "codigo_dane": "680010001094",
     "correo": "ieprovenza@bucaramanga.edu.co",
     "direccion": "Carrera 23 # 109 – 07 Barrio Provenza\nSector 5 Parte Baja Barrio El Cristal\nCalle 108 # 23 B -04Barrio Provenza",
+    "barrio": "Provenza",
     "lat": 7.082877473309315,
     "lng": -73.11318395051167
   },
@@ -347,6 +385,7 @@
     "codigo_dane": "254385000288",
     "correo": "ievijagual@bucaramanga.edu.co",
     "direccion": "Km 10 Vía al mar Vereda Vijagual.\nVereda La Esmeralda.\nVereda La Pastora.\nVereda San Cayetano.\nVereda San Ignacio.\nVereda San Pedro Alto.\nVereda San Pedro Bajo.\nVereda El Nogal.\nVereda El Inicio.",
+    "barrio": "Vereda Vijagual",
     "lat": 7.203283087699637,
     "lng": -73.12971053229828
   },
@@ -356,6 +395,7 @@
     "codigo_dane": "168001002421",
     "correo": "iefranciscodeasis@bucaramanga.edu.co",
     "direccion": "Calle 30 N° 1 occ – 01 Barrio Santander",
+    "barrio": "Santander",
     "lat": 7.118376054185004,
     "lng": -73.13692981880595
   },
@@ -365,6 +405,7 @@
     "codigo_dane": "168001002579",
     "correo": "iesanjosedelasalle@bucaramanga.edu.co",
     "direccion": "Carrera 21 N° 68 – 45 B. La Victoria\nCalle 65# 17-29 Barrio La Victoria\nCarrera 18 # 54-85",
+    "barrio": "La Victoria",
     "lat": 7.100942594338932,
     "lng": -73.11416063802469
   },
@@ -374,15 +415,17 @@
     "codigo_dane": "168001001947",
     "correo": "iegoretti@bucaramanga.edu.co",
     "direccion": "Calle del estudiante 9 – 67 Ciudadela\nReal de Minas\nCarrera 17C# 62-21 Barrio La Ceiba\nCalle 65 # 18-08 Barrio La Victoria",
+    "barrio": "Ciudadela Real de Minas",
     "lat": 7.105345107606861,
     "lng": -73.12411436191832
   },
   {
     "id": 43,
     "nombre": "TECNICO DAMASO ZAPATA",
-    "codigo_dane": "168001001921",
+    "codigo_dane": "",
     "correo": "iedamasozapata@bucaramanga.edu.co",
     "direccion": "Calle 10 # 28 – 77.\nCalle 7ª # 38-48.\nCalle 16N # 24-23 Barrio Villa Helena.\nCalle 14 # 27-24 Barrio San Alonso.",
+    "barrio": "San Alonso",
     "lat": 7.137869818744694,
     "lng": -73.11863317428204
   },
@@ -392,6 +435,7 @@
     "codigo_dane": "168001000088",
     "correo": "iegarciaherreros@bucaramanga.edu.co",
     "direccion": "Carrera 1D # N-81 Barrio Minuto de Dios.",
+    "barrio": "Minuto de Dios",
     "lat": 7.14908810375404,
     "lng": -73.13505681695068
   },
@@ -401,7 +445,8 @@
     "codigo_dane": "",
     "correo": "iejosemariaestevez@bucaramanga.edu.co",
     "direccion": "Calle 51 # 13 – 97 Barrio San Miguel.",
-    "lat": 7.109386434511165,
+    "barrio": "Sin información",
+    "lat": 7.1093864345111655,
     "lng": -73.12559038911822
   },
   {
@@ -410,6 +455,7 @@
     "codigo_dane": "168001004342",
     "correo": "iesalesiano@bucaramanga.edu.co",
     "direccion": "Av. Quebrada seca N° 11 – 85 Barrio\nGirardot.\nCarrera 11# 28-80 Barrio Granada.\nCalle 25 # 6-03 Barrio Girardot.",
+    "barrio": "Girardot",
     "lat": 7.12172662991941,
     "lng": -73.13070110446351
   },
@@ -419,6 +465,7 @@
     "codigo_dane": "168001007767",
     "correo": "ievillas@bucaramanga.edu.co",
     "direccion": "Carrera 54 W N° 37 – 46 Barrio La\nInmaculada.",
+    "barrio": "La Inmaculada",
     "lat": 7.102874344030466,
     "lng": -73.16448805522722
   }
