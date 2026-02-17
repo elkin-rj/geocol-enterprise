@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "GeoCol - Mapa Educativo de Santander",
-  description: "Mapa interactivo de colegios públicos de Bucaramanga, Santander",
+  description: "Mapa interactivo de colegios públicos de Bucaramanga",
 };
 
 export default function RootLayout({
